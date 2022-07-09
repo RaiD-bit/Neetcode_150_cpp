@@ -30,7 +30,4 @@
 *.exe
 *.out
 *.app
-Footer
-
-# language server
-../.ccls-cache/
+.ccls-cache
